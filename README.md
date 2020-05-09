@@ -1,8 +1,10 @@
 # 🏭 Prismic Schema Generator
 
-Being able to generate a schema SDL file from prismic allows you to build custom types in Prismic and then generate types for use in your application, you can even use a package [like this](https://graphql-code-generator.com/). If you're like me and you like to validate data as it comes into your application, you also can use those types with packages like [Decoders](https://www.npmjs.com/package/decoders)
+Being able to generate a schema SDL file from prismic allows you to build custom types in Prismic and then generate types for use in your application, you can even use a package [like this](https://graphql-code-generator.com/).
 
-To get started, simply install:
+If you're like me and you like to validate data as it comes into your application, you also can use those types alongeside packages like [Decoders](https://www.npmjs.com/package/decoders)
+
+### Getting Started
 
 ```
 yarn add prismic-schema-generator
